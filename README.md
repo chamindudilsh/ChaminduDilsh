@@ -13,8 +13,6 @@
 	
 ## <picture><img src = "https://raw.githubusercontent.com/chamindudilsh/ChaminduDilsh/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/chamindudilsh/ChaminduDilsh/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A passionate Self-learning developer
