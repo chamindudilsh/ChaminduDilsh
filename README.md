@@ -1,60 +1,58 @@
-
-<h1 align="center"><b>Hi , I'm Chamindu Dilshan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Still+learning+to+be+a+Developer,;Love+to+learn+new+stuff.."></a>
-</p>
-	
-## <picture><img src = "https://raw.githubusercontent.com/chamindudilsh/ChaminduDilsh/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<br>
-
-- A passionate Self-learning developer
-- Partying on Discord at spare time
-- Currently working on Discord bots
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<h1 align="center">Hi 👋, I'm Chamindu Dilshan</h1>
 
 <p align="center">
-
-- **Familiar Languages**:
-    
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+  💻 Full-Stack Enthusiast • 🌐 Sri Lanka
 </p>
 
------
+---
 
+## ⚡ About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
+- Student & aspiring to be software engineer
+- Currently focused on **web systems, backend development & servers**
+- I enjoy building real-world projects.
+- Exploring VPS, hosting systems & deployment pipelines.
+- Goal: Build scalable systems used in production environments.
 
-<div align="center">
+---
 
-<a href="https://github.com/chamindudilsh/">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamindudilsh&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chamindudilsh&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="chamindudilsh"/>
+## 🧠 Tech Stack
 
-</a>
-</div>
+### 💻 Languages
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-<br>
-<br>
+### ⚙️ Backend & Systems
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WHM](https://img.shields.io/badge/WHM-003366?style=for-the-badge&logo=whmcs&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 
------
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code)
 
-<!--## <b> Let's Connect..!</b><img src="https://raw.githubusercontent.com/chamindudilsh/ChaminduDilsh/main/assets/mdImages/handshake.gif" width ="80">-->
+---
+
+## 🚀 Current Focus
+
+```text
+✔ Building production-style web applications
+✔ Learning server deployment (VPS + Linux)
+✔ Improving backend architecture skills
+✔ Working on real-world hosting systems
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=chamindudilsh&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chamindudilsh&layout=compact&theme=tokyonight" height="170"/>
+</p>
